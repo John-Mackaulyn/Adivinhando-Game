@@ -68,4 +68,4 @@ Adivinhando é um jogo mobile 2D divertido e viciante, desenvolvido em Unity (C#
 ### Instalação
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/adivinhando-game.git
+git clone https://github.com/John-Mackaulyn/Adivinhando-Game.git
